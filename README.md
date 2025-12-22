@@ -253,7 +253,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       text: "💡 Ideas",
       bg: "#c026d3",
-      url: "https://msha.ke/debeatzgh"
+      url: "https://debeatzgh.wordpress.com/begin-a-side-hustle/"
     }
   ];
 
