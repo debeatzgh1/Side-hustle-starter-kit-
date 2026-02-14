@@ -116,7 +116,7 @@ Copy this folder structure for every new side hustle to stay organized:
 4. Push to the branch and submit a PR!
 
 
-📂 Content Module 1: The "48-Hour MVP" Rule
+## 📂 Content Module 1: The "48-Hour MVP" Rule
 File: docs/01-mindset.md
 The Trap of Perfectionism
 Most side hustles die not because the idea was bad, but because the founder spent 3 months building a logo, a website, and a legal entity before talking to a single customer.
@@ -127,7 +127,7 @@ Don't build a course. Teach one person live on Zoom.
 Don't manufacture a product. Make a digital mockup and sell the pre-order.
 The Goal: You are not trying to make a million dollars this weekend. You are trying to get one stranger to trust you enough to give you their email or $1.
 
-📂 Content Module 2: The Validation Scripts
+## 📂 Content Module 2: The Validation Scripts
 File: docs/02-validation-scripts.md
 Don't ask your mom if she likes your business idea (she loves you, so she will lie). Ask strangers to pay you. Here are the copy-paste scripts to validate your idea on Reddit, LinkedIn, or Twitter without looking like spam.
 1. The "Problem Interview" Post (Social Media)
@@ -144,23 +144,23 @@ I saw your comment about struggling with [Problem].
 I just built a very ugly (but functional) tool to fix exactly that. I’m looking for 5 people to try it out for free and tear it apart. I don't want your money, just your brutal feedback.
 Interested in a link?"
 
-📂 Content Module 3: The Zero-Cost Tech Stack (2026 Edition)
+## 📂 Content Module 3: The Zero-Cost Tech Stack (2026 Edition)
 File: docs/03-tools.md
 You do not need venture capital. You need these free tools.
-🎨 Design & Brand
+# 🎨 Design & Brand
 Canva: For logos and social posts. Use the "Tech Startup" templates.
 Coolors.co: Generates a professional color palette in seconds.
 Unsplash: High-quality, royalty-free stock photography.
-🏗 Build & Host
+# 🏗 Build & Host
 Carrd: The absolute best tool for one-page landing pages. ($0/year for basics).
 Notion: Use this as your CMS (Content Management System) or to host a public wiki/knowledge base product.
 Tally Forms: The best free alternative to Typeform. Unlimited responses for free.
-💰 Money & Ops
+# 💰 Money & Ops
 Stripe Payment Links: Create a link, send it to a client, get paid. No coding required.
 Calendly: For scheduling consulting calls or user interviews.
 Loom: Record screen-share videos to explain your product or send personalized sales pitches.
 
-📂 Content Module 4: The "First 10 Customers" Strategy
+## 📂 Content Module 4: The "First 10 Customers" Strategy
 File: docs/04-marketing.md
 You don't need SEO yet. You need "Do Things That Don't Scale."
 The 100-Point Outreach Plan
@@ -176,7 +176,7 @@ Reddit: Find the subreddit for your niche (e.g., r/copywriting, r/coding, r/gard
 Facebook Groups: Join groups, but do not sell. Post "Behind the Scenes" content showing you building the product.
 Product Hunt: Launch here only when the product is polished.
 
-📂 Content Module 5: Pricing Psychology
+## 📂 Content Module 5: Pricing Psychology
 File: docs/05-pricing.md
 How do you price a side hustle?
 1. The "Anchor" Price
@@ -189,7 +189,7 @@ If you are new, people perceive risk. Lower the risk, not the value.
 Don't say: "It's $10."
 Say: "The final price will be $50/month. But for the first 20 users who help me test it, I'm locking in a price of $10/month for life."
 
-📂 Content Module 6: Legal & Safety Check
+## 📂 Content Module 6: Legal & Safety Check
 File: docs/06-legal.md
 Disclaimer: I am a GitHub repo, not a lawyer. This is not legal advice.
 The "Don't Get Sued" Checklist
