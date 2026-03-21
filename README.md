@@ -42,7 +42,7 @@
         #gdev-launcher:hover { transform: translateY(-50%) scale(1.08) translateX(5px); border-color: var(--g-blue); }
 
         .dev-avatar {
-            width: 30px; height: 30px; background: #121212; border-radius: 50%;
+            width: 20px; height: 20px; background: #121212; border-radius: 50%;
             display: flex; align-items: center; justify-content: center;
             border: 2px solid var(--g-blue); color: var(--g-blue); position: relative;
         }
@@ -83,7 +83,7 @@
         #gdev-frame { flex-grow: 1; width: 100%; border: none; background: #fff; }
 
         .close-gdev {
-            position: absolute; top: 20px; right: 25px; width: 30px; height: 30px;
+            position: absolute; top: 70px; right: 25px; width: 30px; height: 30px;
             background: var(--dark-card); border-radius: 50%;
             display: flex; align-items: center; justify-content: center;
             cursor: pointer; color: #fff; z-index: 20; transition: 0.3s;
@@ -141,7 +141,7 @@
     <script>
         const overlay = document.getElementById('gdev-overlay');
         const frame = document.getElementById('gdev-frame');
-        const profileUrl = "https://docs.google.com/forms/d/e/1FAIpQLSdipVP7tU1hjTjECfWUdnhzWN-PROdQp19ng25EUDJk5-8JzA/viewform?usp=header";
+        const profileUrl = "https://debeatzgh1.github.io/blogs";
         
         let autoPopTimer = null;
         let isUserInteracted = false;
